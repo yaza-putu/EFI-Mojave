@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Andres (Original by Chris111)</string>
+	<key>Description</key>
+	<string>DragonBall</string>
+	<key>Theme</key>
+	<dict>
+		<key>Anime</key>
+		<array>
+			<dict>
+				<key>FrameTime</key>
+				<integer>120</integer>
+				<key>Frames</key>
+				<integer>26</integer>
+				<key>ID</key>
+				<integer>1</integer>
+				<key>Path</key>
+				<string>Logo</string>
+			</dict>
+			<string>CharWidth</string>
+			<integer>10</integer>
+			<string>Path</string>
+			<string>font.png</string>
+			<string>Type</string>
+			<string>Load</string>
+		</array>
+		<key>Background</key>
+		<dict>
+			<key>Path</key>
+			<string>backg.png</string>
+			<key>Type</key>
+			<string>Scale</string>
+		</dict>
+		<key>Badges</key>
+		<dict>
+			<key>Inline</key>
+			<false/>
+			<key>Scale</key>
+			<integer>5</integer>
+			<key>Show</key>
+			<true/>
+			<key>Swap</key>
+			<true/>
+		</dict>
+		<key>Banner</key>
+		<string>Logo.png</string>
+		<key>Font</key>
+		<dict/>
+		<key>Selection</key>
+		<dict>
+			<key>Big</key>
+			<string>selection_big.png</string>
+			<key>Color</key>
+			<string>0xFFFFFF7F</string>
+			<key>Small</key>
+			<string>selection_small.png</string>
+		</dict>
+	</dict>
+	<key>Year</key>
+	<string>2017</string>
+</dict>
+</plist>
