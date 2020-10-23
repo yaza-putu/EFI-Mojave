@@ -9,3 +9,5 @@ Spesifikasi Komputer HP 6200 core i3 2100
 * Motherboard LGA 775
 * Bootloader clover version 4xxx legacy mode
 * SM Bios type imac 13
+
+## Config for mac os mojave 10.14.3
